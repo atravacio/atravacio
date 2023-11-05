@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @atravacio
+- 👀 I’m interested in AI for agricultural applications.
+- 🌱 I’m currently learning computer science for business professionals
+-  💞️ I’m looking to collaborate on adding new ideas
+-  - 📫 How to reach me through atravacio@gmail.com
